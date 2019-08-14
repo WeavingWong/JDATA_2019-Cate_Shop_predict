@@ -1,6 +1,9 @@
 ﻿# JDATA_2019-Cate_Shop_predict
+ 
 京东杯 2019 第六届泰达创新创业挑战赛-用户对品类下店铺购买预测_季军方案
+
 详细文档：https://weavingwong.github.io/2019/06/JDATA-2019-Cate_Shop_predict/
+
  ## “京东杯”2019第六届泰达创新创业挑战赛比赛攻略（详情见以上文档地址）
  - 比赛链接：https://jdata.jd.com/html/detail.html?id=8
 队伍名称： 优生801
